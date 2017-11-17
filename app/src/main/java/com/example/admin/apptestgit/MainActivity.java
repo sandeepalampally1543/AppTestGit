@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public  void meth(){
         int i = 1+1;
+        int j =2;
     }
 }
